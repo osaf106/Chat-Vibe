@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "106735552977",
+    "firebase_url": "https://chatvibe-fde9b-default-rtdb.firebaseio.com",
+    "project_id": "chatvibe-fde9b",
+    "storage_bucket": "chatvibe-fde9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106735552977:android:8b1c865ed60e1313a378f0",
+        "android_client_info": {
+          "package_name": "com.example.messagner_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAji1dr3XvTysKc--lnbZdOEp_Tfz3jr_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
